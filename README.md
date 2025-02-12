@@ -32,7 +32,17 @@ Pi-Digits is a React application that fetches and displays the first \( n \) dig
 
 ## Getting Started
 
-install yarn
+Node -
+Node.js is a JavaScript runtime environment built on Chrome's V8 JavaScript engine, designed to build scalable network applications.
+Download the LTS version from here: https://nodejs.org/en/
+
+Yarn -
+Yarn is a package manager for your code. It is recommended to install Yarn through the npm package manager, which comes bundled with Node.js when you install it on your system.
+Open an Administrator Command Prompt, then run the following command:
+
+```bash
+npm install --global yarn
+```
 
 ### Prerequisites
 
@@ -45,6 +55,6 @@ install yarn
    ```bash
    git clone https://github.com/your-username/pi-digits.git
    cd pi-digits
-   ```
    yarn install
    yarn start
+   ```
