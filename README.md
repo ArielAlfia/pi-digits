@@ -30,6 +30,11 @@ Pi-Digits is a React application that fetches and displays the first \( n \) dig
 5. **Light/Dark Theme**: Implement a toggle for switching between light and dark themes.
 6. **Search Functionality**: Add a search feature to find the occurrence of a sequence like "12345" within the first 1000 digits of pi.
 
+### Prerequisites
+
+- Node.js
+- npm
+
 ## Getting Started
 
 Node -
@@ -44,17 +49,50 @@ Open an Administrator Command Prompt, then run the following command:
 npm install --global yarn
 ```
 
-### Prerequisites
-
-- Node.js
-- npm
-
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pi-digits.git
    cd pi-digits
+   ```
+2. Install dependencies:
+   ```bash
    yarn install
+   ```
+3. Start the development server:
+   ```bash
    yarn start
    ```
+
+### Submission Instructions
+
+Candidates should submit this project by following these steps:
+
+Fork the Repository: Fork this repository to your own GitHub account.
+Clone the Forked Repository: Clone the forked repository to your local machine.
+
+```bash
+git clone https://github.com/your-username/pi-digits.git
+cd pi-digits
+```
+
+Make Your Changes: Implement the required bug fixes, error handling, and new features.
+Commit Your Changes: Commit your changes with clear and descriptive commit messages.
+
+```bash
+git add .
+git commit -m "Implemented feature X"
+```
+
+Push to Your Repository: Push your changes to your GitHub repository.
+
+```bash
+git push origin main
+```
+
+Submit the Repository Link: Submit the link to your GitHub repository for review.
+
+### License
+
+This project is licensed under the MIT License.
