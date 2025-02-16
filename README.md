@@ -53,7 +53,7 @@ npm install --global yarn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pi-digits.git
+   git clone https://github.com/ArielAlfia/pi-digits.git
    cd pi-digits
    ```
 2. Install dependencies:
