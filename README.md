@@ -93,6 +93,16 @@ git push origin main
 
 Submit the Repository Link: Submit the link to your GitHub repository for review.
 
+### External Libraries
+
+To enhance the functionality and maintainability of your project, we’ve included several external libraries. Below is a brief description of each library along with links to their official documentation. These libraries will help you with various aspects of development, such as state management, form handling, routing, styling, and testing.
+
+1. **react-hook-form**: Performant, flexible, and extensible forms with easy-to-use validation.
+2. **react-intl**: Internationalization library for React, providing formatted strings and messages.
+3. **@reduxjs/toolkit**: Official, opinionated toolset for efficient Redux development.
+4. **react-router-dom**: Declarative routing for React applications.
+5. **theme-ui**: Library for building themeable React applications with a focus on design systems.
+
 ### License
 
 This project is licensed under the MIT License.
